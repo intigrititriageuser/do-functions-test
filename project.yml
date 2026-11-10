@@ -1,0 +1,6 @@
+packages:
+  - name: victim
+    actions:
+      - name: target
+        runtime: nodejs:18
+        main: target.js
